@@ -1,0 +1,22 @@
+h1 {
+    color:purple
+}
+
+.r {
+    color:red;
+    background-color:yellow;
+    width: 200px;
+    height: 200px;
+}
+
+.g {
+    color:green;
+    background-color:red;
+    width: 200px;
+    height: 200px;
+}
+
+#one {
+    color: purple;
+    background-color: black;
+}
