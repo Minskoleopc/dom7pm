@@ -73,14 +73,19 @@ let amol4 = new PersonC("amol4","rao4",23,46)
 amol4.display()
 
 // Object.create()
-
 let amol5 = Object.create({})
 console.log(amol5)
 amol5.firstName = "amol5"
-amol5.lastName = "deshpande"
+amol5.lastName = "rao5"
 amol5.age = 23
 amol5.rollNo = 34
 amol5.display = function(){
     console.log(this.firstName + this.lastName)
 }
 console.log(amol5)
+amol5.display()
+
+// python
+// cypress
+// react js
+// javascript projects
